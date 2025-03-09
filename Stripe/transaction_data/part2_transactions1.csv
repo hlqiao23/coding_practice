@@ -1,0 +1,7 @@
+customer_id,merchant_id,payout_date,card_type,amount
+cust1,merchantA,2022-01-05,Visa,300
+cust2,merchantA,2022-01-05,Visa,200
+cust3,merchantB,2022-01-06,MasterCard,1000
+cust4,merchantC,2022-01-07,MasterCard,200
+cust5,merchantC,2022-01-07,MasterCard,200
+cust6,merchantC,2022-01-07,MasterCard,200

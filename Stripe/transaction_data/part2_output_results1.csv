@@ -1,0 +1,6 @@
+id,card_type,payout_date,amount
+merchantA,Visa,2022-01-05,0
+merchantB,MasterCard,2022-01-06,1000
+merchantC,MasterCard,2022-01-07,100
+contract1,Visa,2022-01-05,500
+contract2,MasterCard,2022-01-07,500
